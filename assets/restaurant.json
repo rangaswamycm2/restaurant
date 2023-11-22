@@ -1,0 +1,269 @@
+[
+  {
+    "id": "1",
+    "rid": "11",
+    "city": "Hyderabad",
+    "name": "Bawarchi",
+    "averageCostForTwo": 929.0,
+    "averageRating": 4.5,
+    "address": "123 Main St, Cityville",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "1",
+    "rid": "12",
+    "city": "Hyderabad",
+    "name": "Family Restaurant",
+    "averageCostForTwo": 300.0,
+    "averageRating": 5.0,
+    "address": "5-9-22/58/A, Nawab Pahad Hill Rd",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "1",
+    "rid": "13",
+    "city": "Hyderabad",
+    "name": "Paradise Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "123 Main StMasab Tank",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "1",
+    "rid": "14",
+    "city": "Hyderabad",
+    "name": "CMRS Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Somajiguda",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "1",
+    "rid": "15",
+    "city": "Hyderabad",
+    "name": "Venkat Home",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Khairathabad",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "1",
+    "rid": "16",
+    "city": "Hyderabad",
+    "name": "Pawan Mandi",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Somajiguda, Near Yashodha",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+
+  {
+    "id": "2",
+    "rid": "23",
+    "city": "Secunderabad",
+    "name": "Family Restaurant",
+    "averageCostForTwo": 300.0,
+    "averageRating": 5.0,
+    "address": "5-9-22/58/A, Nawab Pahad Hill Rd",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "2",
+    "rid": "24",
+    "city": "Secunderabad",
+    "name": "Paradise Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "123 Main StMasab Tank",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "2",
+    "rid": "25",
+    "city": "Secunderabad",
+    "name": "CMRS Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Secunderabad",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "2",
+    "rid": "26",
+    "city": "Secunderabad",
+    "name": "Venkat Home",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Khairathabad",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "2",
+    "rid": "21",
+    "city": "Secunderabad",
+    "name": "Pawan Mandi",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Somajiguda, Near Yashodha",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": "2",
+    "rid": "22",
+    "city": "Secunderabad",
+    "name": "Bawarchi",
+    "averageCostForTwo": 929.0,
+    "averageRating": 4.5,
+    "address": "123 Main St, Cityville",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+
+  {
+    "id" : "3",
+    "rid": "35",
+    "city" : "Bengaluru",
+    "name": "CMRS Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Secunderabad",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "3",
+    "rid": "36",
+    "city" : "Bengaluru",
+    "name": "Venkat Home",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Khairathabad",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "3",
+    "rid": "31",
+    "city" : "Bengaluru",
+    "name": "Pawan Mandi",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Somajiguda, Near Yashodha",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "3",
+    "rid": "32",
+    "city" : "Bengaluru",
+    "name": "Bawarchi",
+    "averageCostForTwo": 929.0,
+    "averageRating": 4.5,
+    "address": "123 Main St, Cityville",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "3",
+    "rid": "33",
+    "city" : "Bengaluru",
+    "name": "Family Restaurant",
+    "averageCostForTwo": 300.0,
+    "averageRating": 3.5,
+    "address": "5-9-22/58/A, Nawab Pahad Hill Rd",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "3",
+    "rid": "34",
+    "city" : "Bengaluru",
+    "name": "Paradise Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "123 Main StMasab Tank",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+
+  {
+    "id" : "4",
+    "rid": "43",
+    "city" : "Chennai",
+    "name": "Family Restaurant",
+    "averageCostForTwo": 300.0,
+    "averageRating": 3.5,
+    "address": "5-9-22/58/A, Nawab Pahad Hill Rd",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "4",
+    "rid": "44",
+    "city" : "Chennai",
+    "name": "Paradise Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "123 Main StMasab Tank",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "4",
+    "rid": "41",
+    "city" : "Chennai",
+    "name": "Pawan Mandi",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Somajiguda, Near Yashodha",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "4",
+    "rid": "42",
+    "city" : "Chennai",
+    "name": "Bawarchi",
+    "averageCostForTwo": 929.0,
+    "averageRating": 4.5,
+    "address": "123 Main St, Cityville",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "4",
+    "rid": "45",
+    "city" : "Chennai",
+    "name": "CMRS Biryani",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Secunderabad",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id" : "4",
+    "rid": "46",
+    "city" : "Chennai",
+    "name": "Venkat Home",
+    "averageCostForTwo": 30.0,
+    "averageRating": 4.5,
+    "address": "Khairathabad",
+    "hours": "9:00 AM - 10:00 PM",
+    "phoneNumber": "123-456-7890"
+  }
+]
